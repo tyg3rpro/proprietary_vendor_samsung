@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
     vendor/samsung/trltespr/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
     vendor/samsung/trltespr/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
-    vendor/samsung/trltespr/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/trltespr/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/samsung/trltespr/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trltespr/proprietary/lib/libqservice.so:system/lib/libqservice.so \
@@ -47,13 +46,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trltespr/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
@@ -64,5 +59,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
-    vendor/samsung/trltespr/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so
+    vendor/samsung/trltespr/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so

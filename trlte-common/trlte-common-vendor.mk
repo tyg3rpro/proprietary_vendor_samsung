@@ -300,10 +300,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_vt_hd_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_vt_hd_cpp.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_zslshot_cpp.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot_lls_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_zslshot_lls_cpp.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \

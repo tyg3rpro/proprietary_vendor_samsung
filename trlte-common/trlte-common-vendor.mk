@@ -388,4 +388,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so:system/vendor/lib/rfsa/adsp/libadsp_fd_skel.so
 
 PRODUCT_PACKAGES += \
-    libtime_genoff
+    libtime_genoff \
+    com.qualcomm.location

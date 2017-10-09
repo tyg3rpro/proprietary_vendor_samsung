@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/trltespr/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/samsung/trltespr/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
+    vendor/samsung/trltespr/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/trltespr/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trltespr/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/trltespr/proprietary/bin/rild:system/bin/rild \
@@ -45,6 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trltespr/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trltespr/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/samsung/trltespr/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \

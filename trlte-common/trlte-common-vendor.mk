@@ -178,6 +178,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/hw/gps.default.so:system/vendor/lib/hw/gps.default.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/nfc_nci.apq8084.so:system/vendor/lib/hw/nfc_nci.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensorhubs.apq8084.so:system/vendor/lib/hw/sensorhubs.apq8084.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensors.apq8084.so:system/vendor/lib/hw/sensors.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAe.so:system/vendor/lib/libTsAe.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAf.so:system/vendor/lib/libTsAf.so \

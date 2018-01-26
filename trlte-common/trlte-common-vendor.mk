@@ -173,7 +173,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/H16US_libchromatix_imx240_zslshot_lls_cpp.so:system/lib/H16US_libchromatix_imx240_zslshot_lls_cpp.so \
     vendor/samsung/trlte-common/proprietary/lib/H16US_libchromatix_imx240_zslshot_pip_cpp.so:system/lib/H16US_libchromatix_imx240_zslshot_pip_cpp.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/audio.tms.default.so:system/lib/hw/audio.tms.default.so \
-    vendor/samsung/trlte-common/proprietary/lib/hw/camera.apq8084.so:system/lib/hw/camera.apq8084.so \
+    vendor/samsung/trlte-common/proprietary/lib/hw/camera.apq8084.so:system/lib/hw/camera.vendor.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/nfc_nci.apq8084.so:system/lib/hw/nfc_nci.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensorhubs.apq8084.so:system/lib/hw/sensorhubs.apq8084.so \

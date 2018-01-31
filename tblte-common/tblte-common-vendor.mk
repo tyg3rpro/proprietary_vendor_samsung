@@ -229,6 +229,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte-common/proprietary/vendor/lib/H16US_libchromatix_imx240_common_res1.so:system/vendor/lib/H16US_libchromatix_imx240_common_res1.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/H16US_libchromatix_imx240_common_res2.so:system/vendor/lib/H16US_libchromatix_imx240_common_res2.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/H16US_libchromatix_imx240_common_res3.so:system/vendor/lib/H16US_libchromatix_imx240_common_res3.so \
+    vendor/samsung/tblte-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -263,6 +264,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+    vendor/samsung/tblte-common/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/samsung/tblte-common/proprietary/vendor/lib/libchromatix_s5k6d1yx_common.so:system/vendor/lib/libchromatix_s5k6d1yx_common.so \

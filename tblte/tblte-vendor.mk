@@ -23,8 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/spr/bin/netmgrd:system/blobs/spr/bin/netmgrd \
     vendor/samsung/tblte/proprietary/blobs/spr/bin/qcks:system/blobs/spr/bin/qcks \
     vendor/samsung/tblte/proprietary/blobs/spr/bin/qmuxd:system/blobs/spr/bin/qmuxd \
-    vendor/samsung/tblte/proprietary/blobs/spr/bin/rild:system/blobs/spr/bin/rild \
-    vendor/samsung/tblte/proprietary/blobs/spr/bin/rmnetcli:system/blobs/spr/bin/rmnetcli \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libagc_max.so:system/blobs/spr/lib/libagc_max.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libbt-codec_aptx.so:system/blobs/spr/lib/libbt-codec_aptx.so \
@@ -38,12 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libprotobuf-cpp-full.so:system/blobs/spr/lib/libprotobuf-cpp-full.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libqdutils.so:system/blobs/spr/lib/libqdutils.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libqservice.so:system/blobs/spr/lib/libqservice.so \
-    vendor/samsung/tblte/proprietary/blobs/spr/lib/libreference-ril.so:system/blobs/spr/lib/libreference-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/spr/lib/libril.so:system/blobs/spr/lib/libril.so \
-    vendor/samsung/tblte/proprietary/blobs/spr/lib/librmnetctl.so:system/blobs/spr/lib/librmnetctl.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libsec-ril.so:system/blobs/spr/lib/libsec-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/spr/lib/libsecnativefeature.so:system/blobs/spr/lib/libsecnativefeature.so \
-    vendor/samsung/tblte/proprietary/blobs/spr/lib/libsecril-client.so:system/blobs/spr/lib/libsecril-client.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libshdace.so:system/blobs/spr/lib/libshdace.so \
     vendor/samsung/tblte/proprietary/blobs/spr/lib/libtinyxml.so:system/blobs/spr/lib/libtinyxml.so \
     vendor/samsung/tblte/proprietary/blobs/spr/vendor/lib/libcneapiclient.so:system/blobs/spr/vendor/lib/libcneapiclient.so \
@@ -70,8 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/tmo/bin/netmgrd:system/blobs/tmo/bin/netmgrd \
     vendor/samsung/tblte/proprietary/blobs/tmo/bin/qcks:system/blobs/tmo/bin/qcks \
     vendor/samsung/tblte/proprietary/blobs/tmo/bin/qmuxd:system/blobs/tmo/bin/qmuxd \
-    vendor/samsung/tblte/proprietary/blobs/tmo/bin/rild:system/blobs/tmo/bin/rild \
-    vendor/samsung/tblte/proprietary/blobs/tmo/bin/rmnetcli:system/blobs/tmo/bin/rmnetcli \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libagc_max.so:system/blobs/tmo/lib/libagc_max.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libbt-codec_aptx.so:system/blobs/tmo/lib/libbt-codec_aptx.so \
@@ -85,12 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libprotobuf-cpp-full.so:system/blobs/tmo/lib/libprotobuf-cpp-full.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libqdutils.so:system/blobs/tmo/lib/libqdutils.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libqservice.so:system/blobs/tmo/lib/libqservice.so \
-    vendor/samsung/tblte/proprietary/blobs/tmo/lib/libreference-ril.so:system/blobs/tmo/lib/libreference-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/tmo/lib/libril.so:system/blobs/tmo/lib/libril.so \
-    vendor/samsung/tblte/proprietary/blobs/tmo/lib/librmnetctl.so:system/blobs/tmo/lib/librmnetctl.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libsec-ril.so:system/blobs/tmo/lib/libsec-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/tmo/lib/libsecnativefeature.so:system/blobs/tmo/lib/libsecnativefeature.so \
-    vendor/samsung/tblte/proprietary/blobs/tmo/lib/libsecril-client.so:system/blobs/tmo/lib/libsecril-client.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libshdace.so:system/blobs/tmo/lib/libshdace.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/lib/libtinyxml.so:system/blobs/tmo/lib/libtinyxml.so \
     vendor/samsung/tblte/proprietary/blobs/tmo/vendor/lib/libcneapiclient.so:system/blobs/tmo/vendor/lib/libcneapiclient.so \
@@ -117,8 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/vzw/bin/netmgrd:system/blobs/vzw/bin/netmgrd \
     vendor/samsung/tblte/proprietary/blobs/vzw/bin/qcks:system/blobs/vzw/bin/qcks \
     vendor/samsung/tblte/proprietary/blobs/vzw/bin/qmuxd:system/blobs/vzw/bin/qmuxd \
-    vendor/samsung/tblte/proprietary/blobs/vzw/bin/rild:system/blobs/vzw/bin/rild \
-    vendor/samsung/tblte/proprietary/blobs/vzw/bin/rmnetcli:system/blobs/vzw/bin/rmnetcli \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libagc_max.so:system/blobs/vzw/lib/libagc_max.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libbt-codec_aptx.so:system/blobs/vzw/lib/libbt-codec_aptx.so \
@@ -132,12 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libprotobuf-cpp-full.so:system/blobs/vzw/lib/libprotobuf-cpp-full.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libqdutils.so:system/blobs/vzw/lib/libqdutils.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libqservice.so:system/blobs/vzw/lib/libqservice.so \
-    vendor/samsung/tblte/proprietary/blobs/vzw/lib/libreference-ril.so:system/blobs/vzw/lib/libreference-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/vzw/lib/libril.so:system/blobs/vzw/lib/libril.so \
-    vendor/samsung/tblte/proprietary/blobs/vzw/lib/librmnetctl.so:system/blobs/vzw/lib/librmnetctl.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libsec-ril.so:system/blobs/vzw/lib/libsec-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/vzw/lib/libsecnativefeature.so:system/blobs/vzw/lib/libsecnativefeature.so \
-    vendor/samsung/tblte/proprietary/blobs/vzw/lib/libsecril-client.so:system/blobs/vzw/lib/libsecril-client.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libshdace.so:system/blobs/vzw/lib/libshdace.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/lib/libtinyxml.so:system/blobs/vzw/lib/libtinyxml.so \
     vendor/samsung/tblte/proprietary/blobs/vzw/vendor/lib/libcneapiclient.so:system/blobs/vzw/vendor/lib/libcneapiclient.so \
@@ -164,8 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/xx/bin/netmgrd:system/blobs/xx/bin/netmgrd \
     vendor/samsung/tblte/proprietary/blobs/xx/bin/qcks:system/blobs/xx/bin/qcks \
     vendor/samsung/tblte/proprietary/blobs/xx/bin/qmuxd:system/blobs/xx/bin/qmuxd \
-    vendor/samsung/tblte/proprietary/blobs/xx/bin/rild:system/blobs/xx/bin/rild \
-    vendor/samsung/tblte/proprietary/blobs/xx/bin/rmnetcli:system/blobs/xx/bin/rmnetcli \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libagc_max.so:system/blobs/xx/lib/libagc_max.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libbt-codec_aptx.so:system/blobs/xx/lib/libbt-codec_aptx.so \
@@ -179,12 +156,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libprotobuf-cpp-full.so:system/blobs/xx/lib/libprotobuf-cpp-full.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libqdutils.so:system/blobs/xx/lib/libqdutils.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libqservice.so:system/blobs/xx/lib/libqservice.so \
-    vendor/samsung/tblte/proprietary/blobs/xx/lib/libreference-ril.so:system/blobs/xx/lib/libreference-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/xx/lib/libril.so:system/blobs/xx/lib/libril.so \
-    vendor/samsung/tblte/proprietary/blobs/xx/lib/librmnetctl.so:system/blobs/xx/lib/librmnetctl.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libsec-ril.so:system/blobs/xx/lib/libsec-ril.so \
-    vendor/samsung/tblte/proprietary/blobs/xx/lib/libsecnativefeature.so:system/blobs/xx/lib/libsecnativefeature.so \
-    vendor/samsung/tblte/proprietary/blobs/xx/lib/libsecril-client.so:system/blobs/xx/lib/libsecril-client.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libshdace.so:system/blobs/xx/lib/libshdace.so \
     vendor/samsung/tblte/proprietary/blobs/xx/lib/libtinyxml.so:system/blobs/xx/lib/libtinyxml.so \
     vendor/samsung/tblte/proprietary/blobs/xx/vendor/lib/libcneapiclient.so:system/blobs/xx/vendor/lib/libcneapiclient.so \

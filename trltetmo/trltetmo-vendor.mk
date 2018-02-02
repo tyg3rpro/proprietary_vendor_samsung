@@ -23,8 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/trltetmo/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trltetmo/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/trltetmo/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/trltetmo/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/trltetmo/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
@@ -38,12 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/samsung/trltetmo/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trltetmo/proprietary/lib/libqservice.so:system/lib/libqservice.so \
-    vendor/samsung/trltetmo/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/trltetmo/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/trltetmo/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trltetmo/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/trltetmo/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/trltetmo/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trltetmo/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trltetmo/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trltetmo/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \

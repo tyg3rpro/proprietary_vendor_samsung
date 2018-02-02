@@ -22,8 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteduos/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/trlteduos/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trlteduos/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/trlteduos/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/trlteduos/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/trlteduos/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
     vendor/samsung/trlteduos/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trlteduos/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
@@ -38,15 +36,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteduos/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/samsung/trlteduos/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trlteduos/proprietary/lib/libqservice.so:system/lib/libqservice.so \
-    vendor/samsung/trlteduos/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/trlteduos/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/trlteduos/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-09w.so:system/lib/libsec-ril-09w.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds-09w.so:system/lib/libsec-ril-dsds-09w.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/trlteduos/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/trlteduos/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trlteduos/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trlteduos/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \

@@ -23,8 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/trltespr/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trltespr/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/trltespr/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/trltespr/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/trltespr/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
     vendor/samsung/trltespr/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trltespr/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
@@ -38,12 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltespr/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/samsung/trltespr/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trltespr/proprietary/lib/libqservice.so:system/lib/libqservice.so \
-    vendor/samsung/trltespr/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/trltespr/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/trltespr/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trltespr/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/trltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/trltespr/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trltespr/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trltespr/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trltespr/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \

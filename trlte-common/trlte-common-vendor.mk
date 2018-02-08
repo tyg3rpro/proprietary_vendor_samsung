@@ -261,9 +261,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \

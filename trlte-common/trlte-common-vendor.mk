@@ -304,6 +304,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_vt_hd_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_vt_hd_cpp.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_zslshot_cpp.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot_lls_cpp.so:system/vendor/lib/libchromatix_s5k8b1yx_zslshot_lls_cpp.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
@@ -392,6 +393,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so:system/vendor/lib/rfsa/adsp/libadsp_fd_skel.so
 

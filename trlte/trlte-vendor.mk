@@ -1,5 +1,5 @@
 # Copyright (C) 2014-2016 The CyanogenMod Project
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -23,22 +23,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/netmgrd:system/blobs/spr/bin/netmgrd \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/qcks:system/blobs/spr/bin/qcks \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/qmuxd:system/blobs/spr/bin/qmuxd \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libagc_max.so:system/blobs/spr/lib/libagc_max.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-codec_aptx.so:system/blobs/spr/lib/libbt-codec_aptx.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-codec_sshd.so:system/blobs/spr/lib/libbt-codec_sshd.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-iopdb.so:system/blobs/spr/lib/libbt-iopdb.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-iopdb_mod.so:system/blobs/spr/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-vendor.so:system/blobs/spr/lib/libbt-vendor.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libedmnativehelper.so:system/blobs/spr/lib/libedmnativehelper.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libjpegdhw.so:system/blobs/spr/lib/libjpegdhw.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libjpegehw.so:system/blobs/spr/lib/libjpegehw.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libprotobuf-cpp-full.so:system/blobs/spr/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libqdutils.so:system/blobs/spr/lib/libqdutils.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libqservice.so:system/blobs/spr/lib/libqservice.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libsec-ril.so:system/blobs/spr/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libshdace.so:system/blobs/spr/lib/libshdace.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libtinyxml.so:system/blobs/spr/lib/libtinyxml.so \
     vendor/samsung/trlte/proprietary/blobs/spr/vendor/lib/libcneapiclient.so:system/blobs/spr/vendor/lib/libcneapiclient.so \
     vendor/samsung/trlte/proprietary/blobs/spr/vendor/lib/libconfigdb.so:system/blobs/spr/vendor/lib/libconfigdb.so \
     vendor/samsung/trlte/proprietary/blobs/spr/vendor/lib/libdiag.so:system/blobs/spr/vendor/lib/libdiag.so \
@@ -63,22 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/netmgrd:system/blobs/tmo/bin/netmgrd \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/qcks:system/blobs/tmo/bin/qcks \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/qmuxd:system/blobs/tmo/bin/qmuxd \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libagc_max.so:system/blobs/tmo/lib/libagc_max.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-codec_aptx.so:system/blobs/tmo/lib/libbt-codec_aptx.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-codec_sshd.so:system/blobs/tmo/lib/libbt-codec_sshd.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-iopdb.so:system/blobs/tmo/lib/libbt-iopdb.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-iopdb_mod.so:system/blobs/tmo/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-vendor.so:system/blobs/tmo/lib/libbt-vendor.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libedmnativehelper.so:system/blobs/tmo/lib/libedmnativehelper.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libjpegdhw.so:system/blobs/tmo/lib/libjpegdhw.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libjpegehw.so:system/blobs/tmo/lib/libjpegehw.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libprotobuf-cpp-full.so:system/blobs/tmo/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libqdutils.so:system/blobs/tmo/lib/libqdutils.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libqservice.so:system/blobs/tmo/lib/libqservice.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libsec-ril.so:system/blobs/tmo/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libshdace.so:system/blobs/tmo/lib/libshdace.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libtinyxml.so:system/blobs/tmo/lib/libtinyxml.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/vendor/lib/libcneapiclient.so:system/blobs/tmo/vendor/lib/libcneapiclient.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/vendor/lib/libconfigdb.so:system/blobs/tmo/vendor/lib/libconfigdb.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/vendor/lib/libdiag.so:system/blobs/tmo/vendor/lib/libdiag.so \
@@ -103,22 +75,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/netmgrd:system/blobs/vzw/bin/netmgrd \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/qcks:system/blobs/vzw/bin/qcks \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/qmuxd:system/blobs/vzw/bin/qmuxd \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libagc_max.so:system/blobs/vzw/lib/libagc_max.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-codec_aptx.so:system/blobs/vzw/lib/libbt-codec_aptx.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-codec_sshd.so:system/blobs/vzw/lib/libbt-codec_sshd.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-iopdb.so:system/blobs/vzw/lib/libbt-iopdb.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-iopdb_mod.so:system/blobs/vzw/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-vendor.so:system/blobs/vzw/lib/libbt-vendor.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libedmnativehelper.so:system/blobs/vzw/lib/libedmnativehelper.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libjpegdhw.so:system/blobs/vzw/lib/libjpegdhw.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libjpegehw.so:system/blobs/vzw/lib/libjpegehw.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libprotobuf-cpp-full.so:system/blobs/vzw/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libqdutils.so:system/blobs/vzw/lib/libqdutils.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libqservice.so:system/blobs/vzw/lib/libqservice.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libsec-ril.so:system/blobs/vzw/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libshdace.so:system/blobs/vzw/lib/libshdace.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libtinyxml.so:system/blobs/vzw/lib/libtinyxml.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/vendor/lib/libcneapiclient.so:system/blobs/vzw/vendor/lib/libcneapiclient.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/vendor/lib/libconfigdb.so:system/blobs/vzw/vendor/lib/libconfigdb.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/vendor/lib/libdiag.so:system/blobs/vzw/vendor/lib/libdiag.so \
@@ -143,22 +101,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/netmgrd:system/blobs/xx/bin/netmgrd \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/qcks:system/blobs/xx/bin/qcks \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/qmuxd:system/blobs/xx/bin/qmuxd \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libagc_max.so:system/blobs/xx/lib/libagc_max.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-codec_aptx.so:system/blobs/xx/lib/libbt-codec_aptx.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-codec_sshd.so:system/blobs/xx/lib/libbt-codec_sshd.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-iopdb.so:system/blobs/xx/lib/libbt-iopdb.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-iopdb_mod.so:system/blobs/xx/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-vendor.so:system/blobs/xx/lib/libbt-vendor.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libedmnativehelper.so:system/blobs/xx/lib/libedmnativehelper.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libjpegdhw.so:system/blobs/xx/lib/libjpegdhw.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libjpegehw.so:system/blobs/xx/lib/libjpegehw.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libprotobuf-cpp-full.so:system/blobs/xx/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libqdutils.so:system/blobs/xx/lib/libqdutils.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libqservice.so:system/blobs/xx/lib/libqservice.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libsec-ril.so:system/blobs/xx/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libshdace.so:system/blobs/xx/lib/libshdace.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libtinyxml.so:system/blobs/xx/lib/libtinyxml.so \
     vendor/samsung/trlte/proprietary/blobs/xx/vendor/lib/libcneapiclient.so:system/blobs/xx/vendor/lib/libcneapiclient.so \
     vendor/samsung/trlte/proprietary/blobs/xx/vendor/lib/libconfigdb.so:system/blobs/xx/vendor/lib/libconfigdb.so \
     vendor/samsung/trlte/proprietary/blobs/xx/vendor/lib/libdiag.so:system/blobs/xx/vendor/lib/libdiag.so \

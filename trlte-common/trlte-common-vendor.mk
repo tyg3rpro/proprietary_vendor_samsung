@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/samsung/trlte-common/proprietary/bin/radish:system/vendor/bin/radish \
     vendor/samsung/trlte-common/proprietary/bin/sensorhubservice:system/vendor/bin/sensorhubservice \
-    vendor/samsung/trlte-common/proprietary/bin/vcsFPService:system/vendor/bin/vcsFPService \
     vendor/samsung/trlte-common/proprietary/cameradata/F16UL_Isp1_s5k2p2xx.bin:system/vendor/cameradata/F16UL_Isp1_s5k2p2xx.bin \
     vendor/samsung/trlte-common/proprietary/cameradata/F16US_Isp1_imx240.bin:system/vendor/cameradata/F16US_Isp1_imx240.bin \
     vendor/samsung/trlte-common/proprietary/cameradata/H16UL_Isp1_s5k2p2xx.bin:system/vendor/cameradata/H16UL_Isp1_s5k2p2xx.bin \
@@ -189,7 +188,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libcsd-client.so:system/vendor/lib/libcsd-client.so \
     vendor/samsung/trlte-common/proprietary/lib/libdetectmodem.so:system/vendor/lib/libdetectmodem.so \
     vendor/samsung/trlte-common/proprietary/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
-    vendor/samsung/trlte-common/proprietary/lib/libfpasmtztransport.so:system/vendor/lib/libfpasmtztransport.so \
     vendor/samsung/trlte-common/proprietary/lib/libgnustl_shared.so:system/vendor/lib/libgnustl_shared.so \
     vendor/samsung/trlte-common/proprietary/lib/libgps.utils.so:system/vendor/lib/libgps.utils.so \
     vendor/samsung/trlte-common/proprietary/lib/libhr.so:system/vendor/lib/libhr.so \
@@ -211,11 +209,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libsensorhub.so:system/vendor/lib/libsensorhub.so \
     vendor/samsung/trlte-common/proprietary/lib/libsensorhubservice.so:system/vendor/lib/libsensorhubservice.so \
     vendor/samsung/trlte-common/proprietary/lib/libssaudio-client.so:system/vendor/lib/libssaudio-client.so \
-    vendor/samsung/trlte-common/proprietary/lib/libvalAuth.so:system/vendor/lib/libvalAuth.so \
-    vendor/samsung/trlte-common/proprietary/lib/libvcsfp.so:system/vendor/lib/libvcsfp.so \
     vendor/samsung/trlte-common/proprietary/lib/libvdis.so:system/vendor/lib/libvdis.so \
-    vendor/samsung/trlte-common/proprietary/lib/libvfmClient.so:system/vendor/lib/libvfmClient.so \
-    vendor/samsung/trlte-common/proprietary/lib/libvfmtztransport.so:system/vendor/lib/libvfmtztransport.so \
     vendor/samsung/trlte-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \

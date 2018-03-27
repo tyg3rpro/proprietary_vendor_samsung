@@ -22,26 +22,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteduos/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/trlteduos/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trlteduos/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/trlteduos/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-codec_sshd.so:system/lib/libbt-codec_sshd.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlteduos/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
-    vendor/samsung/trlteduos/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
-    vendor/samsung/trlteduos/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
-    vendor/samsung/trlteduos/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
     vendor/samsung/trlteduos/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/trlteduos/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
-    vendor/samsung/trlteduos/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
-    vendor/samsung/trlteduos/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-09w.so:system/lib/libsec-ril-09w.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds-09w.so:system/lib/libsec-ril-dsds-09w.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/trlteduos/proprietary/lib/libshdace.so:system/lib/libshdace.so \
-    vendor/samsung/trlteduos/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \

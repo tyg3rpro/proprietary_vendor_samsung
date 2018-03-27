@@ -35,15 +35,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/cameradata/cal_data_LSCmaster.bin:system/vendor/cameradata/cal_data_LSCmaster.bin \
     vendor/samsung/trlte-common/proprietary/cameradata/datapattern_420sp.yuv:system/vendor/cameradata/datapattern_420sp.yuv \
     vendor/samsung/trlte-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/vendor/cameradata/datapattern_front_420sp.yuv \
-    vendor/samsung/trlte-common/proprietary/etc/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
-    vendor/samsung/trlte-common/proprietary/etc/General_cal.acdb:system/etc/General_cal.acdb \
-    vendor/samsung/trlte-common/proprietary/etc/Global_cal.acdb:system/etc/Global_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Bluetooth_cal.acdb:system/vendor/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/General_cal.acdb:system/vendor/etc/acdbdata/General_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Global_cal.acdb:system/vendor/etc/acdbdata/Global_cal.acdb \
     vendor/samsung/trlte-common/proprietary/etc/H16UL_s5k2p2xx_module_info.xml:system/vendor/etc/H16UL_s5k2p2xx_module_info.xml \
     vendor/samsung/trlte-common/proprietary/etc/H16US_imx240_module_info.xml:system/vendor/etc/H16US_imx240_module_info.xml \
-    vendor/samsung/trlte-common/proprietary/etc/Handset_cal.acdb:system/etc/Handset_cal.acdb \
-    vendor/samsung/trlte-common/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
-    vendor/samsung/trlte-common/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
-    vendor/samsung/trlte-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Handset_cal.acdb:system/vendor/etc/acdbdata/Handset_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Hdmi_cal.acdb:system/vendor/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Headset_cal.acdb:system/vendor/etc/acdbdata/Headset_cal.acdb \
+    vendor/samsung/trlte-common/proprietary/etc/Speaker_cal.acdb:system/vendor/etc/acdbdata/Speaker_cal.acdb \
     vendor/samsung/trlte-common/proprietary/etc/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
     vendor/samsung/trlte-common/proprietary/etc/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
     vendor/samsung/trlte-common/proprietary/etc/firmware/audience-es705-fw.bin:system/vendor/firmware/audience-es705-fw.bin \

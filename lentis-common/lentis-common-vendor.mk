@@ -211,7 +211,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lentis-common/proprietary/lib/libssaudio-client.so:system/vendor/lib/libssaudio-client.so \
     vendor/samsung/lentis-common/proprietary/lib/libvdis.so:system/vendor/lib/libvdis.so \
     vendor/samsung/lentis-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    vendor/samsung/lentis-common/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/samsung/lentis-common/proprietary/vendor/lib/F16UL_libchromatix_s5k2p2xx_common.so:system/vendor/lib/F16UL_libchromatix_s5k2p2xx_common.so \
     vendor/samsung/lentis-common/proprietary/vendor/lib/F16UL_libchromatix_s5k2p2xx_common_res0.so:system/vendor/lib/F16UL_libchromatix_s5k2p2xx_common_res0.so \
     vendor/samsung/lentis-common/proprietary/vendor/lib/F16UL_libchromatix_s5k2p2xx_common_res1.so:system/vendor/lib/F16UL_libchromatix_s5k2p2xx_common_res1.so \

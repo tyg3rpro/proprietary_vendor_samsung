@@ -205,7 +205,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/samsung/trlte-common/proprietary/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
     vendor/samsung/trlte-common/proprietary/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
-    vendor/samsung/trlte-common/proprietary/lib/libmysound.so:system/vendor/lib/libmysound.so \
     vendor/samsung/trlte-common/proprietary/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
     vendor/samsung/trlte-common/proprietary/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/samsung/trlte-common/proprietary/lib/libsensorhub.so:system/vendor/lib/libsensorhub.so \
